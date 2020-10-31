@@ -1,0 +1,17 @@
+.header{
+    display:flex;
+    justify-content:center;
+    margin-top:20px;
+
+}
+.header img{
+    height:150px;
+
+}
+.info{
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 49px;
+    color: skyblue;
+
+}

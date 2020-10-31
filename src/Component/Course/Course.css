@@ -1,0 +1,16 @@
+.shop-container{
+    display:flex;
+    margin-top:25px;
+    border-top:1px solid lightblue;
+}
+.product-container{
+    width:70%;
+    border-right:1px solid lightblue;
+    text-align:center;
+
+}
+.cart-container{
+    width:30%;
+    text-align:center;
+
+}

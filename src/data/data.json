@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "name": "Agile Software Development",
+    "price":4050
+  }, {
+    "id": 2,
+    "name": "Data Science of Business Leaders",
+    "price": 3000
+  }, {
+    "id": 3,
+    "name": "Data Product Manager",
+    "price": 2000
+  }, {
+    "id": 4,
+    "name": "Monetization Strategy",
+    "price": 5000
+  }, {
+    "id": 5,
+    "name": "growth Product Manager",
+    "price":  3050
+  }, {
+    "id": 6,
+    "name": "SQL",
+    "price":  5500
+  }, {
+    "id": 7,
+    "name": "Al for Business Leaders",
+    "price": 3500
+  }, {
+    "id": 8,
+    "name": "Product Manager",
+    "price":  4500
+  }, {
+    "id": 9,
+    "name": "Business Analytics",
+    "price":  2500
+  }, {
+    "id": 10,
+    "name": "Marketing Analytics",
+    "price": 3600
+  }, {
+    "id": 11,
+    "name": "Digital Marketing",
+    "price":  5000
+  }, {
+    "id": 12,
+    "name": "UX Designer",
+    "price":  4800
+  }, {
+    "id": 13,
+    "name": "Predictive Analytics For Business",
+    "price":  3400
+  }, {
+    "id": 14,
+    "name": "Web Developer",
+    "price": 6000
+  }, {
+    "id": 15,
+    "name": "Graphic Designer",
+    "price":  2500
+  }]
